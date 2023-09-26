@@ -435,7 +435,7 @@ iframe {
   }
 
   .bg-slider .swiper-slide img{
-    width: 190%;
+    width: 250%;
     height: 100vh;
     object-fit: cover;
     background-position: center;
